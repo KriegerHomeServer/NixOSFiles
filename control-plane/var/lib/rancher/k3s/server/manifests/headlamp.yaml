@@ -11,5 +11,5 @@ metadata:
   namespace: kube-system
 spec:
   repo: https://headlamp-k8s.github.io/headlamp/
-  chart: headlamp/headlamp
+  chart: headlamp
   targetNamespace: headlamp
